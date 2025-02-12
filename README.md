@@ -17,7 +17,7 @@ The Cafe Ordering System is a Java application designed to simplify food orderin
 
 ### Contributors
 - Alyaan Mir
-- Diraj Grewal
+- Dilraj Grewal
 
 ### License
 Anyone can use this
